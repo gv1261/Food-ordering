@@ -1,0 +1,83 @@
+body{
+    display: flex;
+    /* background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Ffood%2520background%2F&psig=AOvVaw322wpjVHJ6w5Q0ARsgPEXz&ust=1680944169676000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj3wpOzl_4CFQAAAAAdAAAAABAJ); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* font-family: 'Ms Madi', cursive; */
+    font-family: 'Ms Madi', cursive;
+}
+a:link{
+    text-decoration: none;
+    /* color: white; */
+}
+a:visited{
+    color: white;
+}
+a:hover {
+    color: rgb(179, 234, 234);
+}
+a:active {
+    color: rgb(225, 172, 246);
+}
+.navbar1{
+    margin-left: 10px;
+}
+#demo{
+    display: block;
+    border-radius: 2em;
+    align-items: center;
+    /* background-image: url(https://images.hdqwalls.com/download/fiery-sunse-reflection-4k-w3-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    color: white;
+    margin-top: 11.3%; 
+    text-align: center;
+    margin-left: 64%; 
+    width: 30%;
+    height: 450px;
+    text-shadow: none;
+}
+.demo1{
+    display: flex;
+    cursor: pointer;
+}
+.material-symbols-outlined{
+    text-decoration: none;
+    color: #ffff;
+    margin-left: 350px;
+    margin-top: 19px;
+}
+.sumbit{
+    font-family: 'Ms Madi', cursive;
+    margin-left: 30%;
+}
+.demo3{
+    font-size: 43px;
+    margin-top: 0;
+    background: -webkit-linear-gradient(#efefef,#ff0101);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#demo4{
+    opacity: 0.7;
+}
+.check{
+    color: #efefef;
+    text-decoration: none;
+}
+marquee{
+    margin: 0 0 0 0;
+}
+.libr{
+    text-decoration: none;
+    color: #efefef;
+    padding:0 0 2% 0;
+    
+}
+.sumbit{
+    cursor: pointer;
+}
+.demo5{
+    padding: 0 0 0 0;
+}
